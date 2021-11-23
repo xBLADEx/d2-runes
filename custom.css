@@ -1,0 +1,11 @@
+body {
+  margin: 20px auto;
+  padding: 0 20px;
+  max-width: 1180px;
+  background-color: #141414;
+  color: #838383;
+}
+
+.form-control {
+  max-width: 300px;
+}
